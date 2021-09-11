@@ -1,0 +1,21 @@
+[Info]
+name="Mother Brain by Endoedgar"
+displayname="Mother Brain"
+versiondate=13/09/08
+mugenversion=14,04,2002
+author="Endoedgarjunior (Old Jupiter)"
+pal.defaults=1
+[Files]
+sprite=motherbrain.sff
+sound=motherbrain.snd
+anim=motherbrain.air
+cmd=motherbrain.cmd
+cns=motherbrainhd.cns
+st=motherbrain.st
+stcommon=common.cns
+pal1=motherbrain.act
+pal2=motherbrainredglass.act
+st1=hrsize.st
+[Arcade]
+intro.storyboard=
+ending.storyboard=
